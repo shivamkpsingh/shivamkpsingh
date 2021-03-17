@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on **my own project**
 
-- 🌱 I’m currently learning **javascript and it's framework**
+- 🌱 I’m currently learning **javaScript and it's framework**
 
-- 🤝 I’m looking for help with **javascript**
+- 🤝 I’m looking for help with **javaScript**
 
 - 💬 Ask me about **C,HTML,CSS**
 
 - 📫 How to reach me **shivamkpsingh@gmail.com**
 
-- ⚡ Fun fact **i like play cricket,listen music**
+- ⚡ Fun fact **I like play cricket,listen music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
